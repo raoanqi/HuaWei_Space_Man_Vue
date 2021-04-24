@@ -1,4 +1,10 @@
-# sapce_man
+# space_man
+
+## 简介
+```
+华为手表太空人表盘
+使用less和less-loader时注意版本，不要过高
+```
 
 ## Project setup
 ```
